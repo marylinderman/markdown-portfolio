@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# Favorite Things
+Here is an unorder list of my favorite things:
+* GitHub
+* Markdown
+  * Emojis
+  * Task lists
+* GitHub pages
